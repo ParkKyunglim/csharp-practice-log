@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\problem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\problem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\problem3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\problem3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProblemUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\problemui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|solutionrelative:problemui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B894AEE2-26D6-417B-8757-02ECA000E9BE}|ProblemUI\\ProblemUI.csproj|c:\\users\\pkl10\\desktop\\test\\problemui\\problemui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.cs",
+              "RelativeToolTip": "ProblemUI\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:21:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ProblemUI\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:24:44.289Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem5.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem5.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Problem5.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem5.cs",
+              "RelativeToolTip": "ProblemUI\\Problem5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:51:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem4.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem4.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Problem4.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem4.cs",
+              "RelativeToolTip": "ProblemUI\\Problem4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:44:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.Designer.cs",
+              "RelativeToolTip": "ProblemUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAewF0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:23:13.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Problem2.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem2.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Problem2.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem2.cs",
+              "RelativeToolTip": "ProblemUI\\Problem2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:34:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.resx",
+              "RelativeDocumentMoniker": "ProblemUI\\Form1.resx",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Form1.resx",
+              "RelativeToolTip": "ProblemUI\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-14T13:25:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Problem3.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem3.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Problem3.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem3.cs",
+              "RelativeToolTip": "ProblemUI\\Problem3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:34:43.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProblemUI",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\ProblemUI.csproj",
+              "RelativeDocumentMoniker": "ProblemUI\\ProblemUI.csproj",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\ProblemUI.csproj",
+              "RelativeToolTip": "ProblemUI\\ProblemUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-14T13:19:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Program.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Program.cs",
+              "RelativeToolTip": "ProblemUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:17:44.351Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Problem1.cs",
+              "DocumentMoniker": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem1.cs",
+              "RelativeDocumentMoniker": "ProblemUI\\Problem1.cs",
+              "ToolTip": "C:\\Users\\pkl10\\Desktop\\test\\ProblemUI\\ProblemUI\\Problem1.cs",
+              "RelativeToolTip": "ProblemUI\\Problem1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:36:36.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

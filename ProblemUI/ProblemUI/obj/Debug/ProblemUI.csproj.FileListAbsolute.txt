@@ -1,0 +1,11 @@
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.csproj.AssemblyReference.cache
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.Form1.resources
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.Properties.Resources.resources
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.csproj.GenerateResource.cache
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.csproj.CoreCompileInputs.cache
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\bin\Debug\ProblemUI.exe.config
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\bin\Debug\ProblemUI.exe
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\bin\Debug\ProblemUI.pdb
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.exe
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.pdb
+C:\Users\pkl10\Desktop\test\ProblemUI\ProblemUI\obj\Debug\ProblemUI.exe.config

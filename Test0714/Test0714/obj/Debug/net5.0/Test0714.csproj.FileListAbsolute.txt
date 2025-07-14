@@ -1,0 +1,15 @@
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.exe
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.deps.json
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.runtimeconfig.json
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.runtimeconfig.dev.json
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.dll
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\ref\Test0714.dll
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\bin\Debug\net5.0\Test0714.pdb
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.AssemblyInfoInputs.cache
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.AssemblyInfo.cs
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.csproj.CoreCompileInputs.cache
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.dll
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\ref\Test0714.dll
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.pdb
+C:\Users\hona\OneDrive\문서\Test0714\Test0714\obj\Debug\net5.0\Test0714.genruntimeconfig.cache
